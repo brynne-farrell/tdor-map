@@ -113,6 +113,8 @@ document.addEventListener("DOMContentLoaded", function() {
                 attribution: false
             }).extend([attribution]),
         });
+        
+        map.getView().fit([-170, -80, 170, 80]);
 
         var frameRate = 7; // frames per second
         var maxDate = new Date('19-Nov-17');
