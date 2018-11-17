@@ -1,0 +1,51 @@
+html, body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+.map {
+    height: 100%;
+    z-index: 0;
+}
+#legend {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    z-index: 1;
+    padding: 10px;
+    max-width: 25%;
+    background-color: #FFFFFF;
+}
+#legendContent.hidden {
+     display: none;
+}
+#legendShowHideButton {
+    float: right;
+    margin-left: 10px;
+}
+.center-wrap {
+    position: fixed; 
+    z-index: 1;
+    left: 0;
+    top: 10px;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: transparent;
+    background-color: rgba(0,0,0,0);
+}
+.center-content {
+    position: relative;
+    margin: auto;
+    padding: 10px;
+    width: 500px;
+}
+#playbackControls {
+    background-color: #FFFFFF;
+}
+#currentDateDisplayed {
+    float: right;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
