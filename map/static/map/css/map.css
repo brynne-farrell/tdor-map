@@ -29,7 +29,7 @@ html, body {
     left: 0;
     top: 10px;
     width: 100%;
-    height: 100%;
+    pointer-events: none;
     overflow: auto;
     background-color: transparent;
     background-color: rgba(0,0,0,0);
@@ -39,6 +39,7 @@ html, body {
     margin: auto;
     padding: 10px;
     width: 500px;
+    pointer-events: all;
 }
 #playbackControls {
     background-color: #FFFFFF;
