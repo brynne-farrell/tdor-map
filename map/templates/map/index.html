@@ -11,6 +11,19 @@
 
 <body>
     <div id="map" class="map">
+        <div class="center-wrap">
+            <div id="playbackControls" class="center-content">
+                <h1>
+                    Honoring our siblings murdered during 2017.
+                </h1>
+                <button id="playbackStart">Start</button>
+                <button id="playbackStop">Stop</button>
+                <button id="playbackReset">Reset</button>
+                <p id="currentDateDisplayed">
+                    <b>Current Date Displayed: <span id="currentDate"></span></b>
+                </p>
+            </div>
+        </div>
         <div id="legend">
             <p>
                 <b>About this Map</b>
@@ -25,20 +38,19 @@
                 <p>This code &copy; Brynne Farrell <a href="mailto:brynne.farrell@gmail.com" target="_blank">brynne.farrell@gmail.com</a>. Last updated 2017/11/20.</p>
             </div>
         </div>
-        <div class="center-wrap">
-            <div id="playbackControls" class="center-content">
-                <button id="playbackStart">Start</button>
-                <button id="playbackStop">Stop</button>
-                <button id="playbackReset">Reset</button>
-                <p id="currentDateDisplayed">
-                    <b>Current Date Displayed: <span id="currentDate"></span></b>
-                </p>
-            </div>
+    </div>
+    <div id="nameContainer">
+        <h2>
+            Name and date of murder
+        </h2>
+        <div id="nameList">
+            
         </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.6.5/ol.js" type="text/javascript"></script>
     <script src="{% static 'map/js/map.js' %}" type="text/javascript"></script>
     <script src="{% static 'map/js/legend.js' %}" type="text/javascript"></script>
+    <script src="{% static 'map/js/list.js' %}" type="text/javascript"></script>
 </body>
 
 </html>

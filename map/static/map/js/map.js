@@ -63,6 +63,14 @@ document.addEventListener("DOMContentLoaded", function() {
     var startDate = new Date('19-Nov-16');
     var styleFunction = function(feature) {
         var featureDate = new Date(feature.getProperties().date);
+        featureDate.setHours(5, 0, 0, 0);
+        
+        if (featureDate.getTime() == startDate.getTime()) {
+            var addNameEvent = new CustomEvent('addName', {
+                detail: feature.getProperties()
+            });
+            document.dispatchEvent(addNameEvent);
+        }
 
         if (featureDate.getTime() <= startDate.getTime() && featureDate.getTime() > startDate.getTime() - days(7)) {
             return styles['0day'];
@@ -114,7 +122,7 @@ document.addEventListener("DOMContentLoaded", function() {
             }).extend([attribution]),
         });
         
-        map.getView().fit([-170, -80, 170, 80]);
+        map.getView().fit([-180, -90, 180, 90], {nearest: true}); // Not exactly the projection's dimensions to make sure the map doesn't zoom out too much
 
         var frameRate = 7; // frames per second
         var maxDate = new Date('19-Nov-17');
@@ -128,7 +136,8 @@ document.addEventListener("DOMContentLoaded", function() {
             }
             if (isPlaying) {
                 startDate.setTime(startDate.getTime() + days(1));
-                document.getElementById("currentDate").innerHTML = startDate.getFullYear() + '/' + (startDate.getMonth() + 1) + '/' + startDate.getDate();
+                startDate.setHours(5, 0, 0, 0);
+                document.getElementById("currentDate").innerHTML = startDate.toLocaleDateString();
                 vectorLayer.changed();
             }
         }
@@ -145,8 +154,12 @@ document.addEventListener("DOMContentLoaded", function() {
         });
         playbackReset.addEventListener("click", function(){
             startDate.setTime(new Date('19-Nov-16'));
-            document.getElementById("currentDate").innerHTML = startDate.getFullYear() + '/' + (startDate.getMonth() + 1) + '/' + startDate.getDate();
+            startDate.setHours(5, 0, 0, 0);
+            document.getElementById("currentDate").innerHTML = startDate.toLocaleDateString();
             vectorLayer.changed();
+            
+            var resetCounterEvent = new CustomEvent('resetCounter');
+            document.dispatchEvent(resetCounterEvent);
         });
     });
 });
