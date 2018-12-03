@@ -78,9 +78,31 @@ document.addEventListener("DOMContentLoaded", function() {
             })
         }),
     };
-    var startDate = new Date('19-Nov-16');
+    
+    var startDate = new Date('November 19, 2016 05:00:00');
     var styleFunction = function(feature) {
-        var featureDate = new Date(feature.getProperties().date);
+        var splitDate = feature.getProperties().date.split("-");
+        
+        var monthLookup = {
+            'Jan': 0,
+            'Feb': 1,
+            'Mar': 2,
+            'Apr': 3,
+            'May': 4,
+            'Jun': 5,
+            'Jul': 6,
+            'Aug': 7,
+            'Sep': 8,
+            'Oct': 9,
+            'Nov': 10,
+            'Dec': 11,
+        };
+        
+        var day = splitDate[0];
+        var month = monthLookup[splitDate[1]];
+        var year = "20" + splitDate[2];
+        
+        var featureDate = new Date(year, month, day);
         featureDate.setHours(5, 0, 0, 0);
         
         if (featureDate.getTime() == startDate.getTime()) {
@@ -144,8 +166,8 @@ document.addEventListener("DOMContentLoaded", function() {
         map.getView().fit([-180, -90, 180, 90], {nearest: true}); // Not exactly the projection's dimensions to make sure the map doesn't zoom out too much
 
         var frameRate = 7; // frames per second
-        var maxDate = new Date('19-Nov-17');
-        animationId = window.setInterval(setTime, 1000 / frameRate);
+        var maxDate = new Date('November 19, 2017 05:00:00');
+        var animationId = window.setInterval(setTime, 1000 / frameRate);
         var isPlaying = false;
 
         function setTime() {
@@ -156,8 +178,8 @@ document.addEventListener("DOMContentLoaded", function() {
             if (isPlaying) {
                 startDate.setTime(startDate.getTime() + days(1));
                 startDate.setHours(5, 0, 0, 0);
-                document.getElementById("currentDate").innerHTML = startDate.toLocaleDateString();
                 vectorLayer.changed();
+                document.getElementById("currentDate").innerHTML = startDate.toLocaleDateString();
             }
         }
         
@@ -172,7 +194,7 @@ document.addEventListener("DOMContentLoaded", function() {
             isPlaying = false;
         });
         playbackReset.addEventListener("click", function(){
-            startDate.setTime(new Date('19-Nov-16'));
+            startDate.setTime(new Date('November 19, 2016 05:00:00'));
             startDate.setHours(5, 0, 0, 0);
             document.getElementById("currentDate").innerHTML = startDate.toLocaleDateString();
             vectorLayer.changed();
