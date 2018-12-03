@@ -30,9 +30,6 @@
                         <a class="nav-link disabled" href="#">Disabled</a>
                     </li> -->
                 </ul>
-                <div class="nav-item ml-auto">
-                   <button id="legendShowHideButton">About this Map</button>
-                </div>
             </div>
         </nav>
     </header>
@@ -40,6 +37,9 @@
     <main role="main" class="container">
         <div id="legendContent" class="hidden center-wrap">
             <div class="center-content">
+                <button id="jx-close-about">
+                    Close
+                </button>
                 <p>This map is best viewed full screen on a desktop display</p>
                 <p>This map shows the deaths of transgender folks over the year 2017 (from 2016/11/20 to 2017/11/20). Each week of the year passes in about one second. You can control the playback with the buttons at the top of the page.</p>
                 <p>When each death happens, it starts as a solid red dot, which slowly fades over the course of a month.</p>
@@ -54,6 +54,7 @@
             <button id="playbackStart">Start</button>
             <button id="playbackStop">Stop</button>
             <button id="playbackReset">Reset</button>
+            <button id="legendShowHideButton">About this Map</button>
 
             <p id="currentDateDisplayed">
                 <b>Current Date Displayed: <span id="currentDate"></span></b>

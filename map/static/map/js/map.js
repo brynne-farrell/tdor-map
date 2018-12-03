@@ -8,10 +8,8 @@ document.addEventListener("DOMContentLoaded", function() {
         var mapHeight = document.body.offsetHeight - subtractHeight;
         var mapWidth = 1.64 * mapHeight;
         
-        
         var mapDiv = document.getElementById("map");
         if (mapDiv.offsetWidth < mapWidth) {
-            alert("hit max width");
             mapWidth = mapDiv.offsetWidth;
             mapHeight = mapWidth / 1.64;
         }
