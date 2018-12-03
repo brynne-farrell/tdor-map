@@ -4,20 +4,10 @@ html, body {
     height: 100%;
 }
 .map {
-/*     height: 65vh;
-    width: 135vh; */
     z-index: 0;
-/*     position: fixed; 
-    top: 25vh; */
 }
 #legendContent {
     outline: 1px solid black;
-/*     position: absolute;
-    left: 10px;
-    bottom: 10px;
-    z-index: 1;
-    padding: 10px; */
-/*     max-width: 75%; */
     max-height: 100%;
     background-color: #FFFFFF;
 }
@@ -50,16 +40,11 @@ html, body {
     background-color: #FFFFFF;
 }
 #currentDateDisplayed {
-/*     float: right; */
     margin-left: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 #nameContainer {
-/*     position: absolute; */
-/*     right: 0px; */
-/*     top: 25vh; */
-/*     width: calc(100vw - 135vh); */
     overflow: scroll;
     max-height: calc(100vh - 60px - 60px);
 }

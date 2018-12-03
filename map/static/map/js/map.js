@@ -101,8 +101,7 @@ document.addEventListener("DOMContentLoaded", function() {
         } else if (featureDate.getTime() <= startDate.getTime() - days(21) && featureDate.getTime() > startDate.getTime() - days(28)) {
             return styles['21day'];
         } else {
-            return styles['21day'];
-//             return styles.hidden;
+            return styles.hidden;
         }
     };
     
