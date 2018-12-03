@@ -1,4 +1,24 @@
 document.addEventListener("DOMContentLoaded", function() {
+    function fixContentHeight(map){
+        var navbar = document.querySelector('nav');
+        var footer = document.querySelector('footer');
+        var header = document.getElementById('playbackControls');
+        var subtractHeight = navbar.offsetHeight + footer.offsetHeight + header.offsetHeight;
+        subtractHeight = subtractHeight * 1.1; // Add an extra 10%< just for breathing room
+        var mapHeight = document.body.offsetHeight - subtractHeight;
+        var mapWidth = 1.64 * mapHeight;
+        
+        
+        var mapDiv = document.getElementById("map");
+        if (mapDiv.offsetWidth < mapWidth) {
+            alert("hit max width");
+            mapWidth = mapDiv.offsetWidth;
+            mapHeight = mapWidth / 1.64;
+        }
+        mapDiv.style = "height: "+mapHeight+"px; " + "width: "+mapWidth+"px; ";
+        map.updateSize();
+    }
+    
     function days(numDays) {
         return 1000 * 60 * 60 * 24 * numDays;
     }
@@ -81,7 +101,8 @@ document.addEventListener("DOMContentLoaded", function() {
         } else if (featureDate.getTime() <= startDate.getTime() - days(21) && featureDate.getTime() > startDate.getTime() - days(28)) {
             return styles['21day'];
         } else {
-            return styles.hidden;
+            return styles['21day'];
+//             return styles.hidden;
         }
     };
     
@@ -121,6 +142,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 attribution: false
             }).extend([attribution]),
         });
+        fixContentHeight(map);
         
         map.getView().fit([-180, -90, 180, 90], {nearest: true}); // Not exactly the projection's dimensions to make sure the map doesn't zoom out too much
 
