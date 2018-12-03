@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", function() {
         });
 
         var attribution = new ol.control.Attribution({
-            collapsible: false
+            collapsible: true
         });
 
         var map = new ol.Map({
