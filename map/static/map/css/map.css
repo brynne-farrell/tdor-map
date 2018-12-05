@@ -42,7 +42,7 @@ html, body {
     margin-bottom: 0px;
 }
 #nameContainer {
-    overflow: scroll;
+    overflow: auto;
     max-height: calc(100vh - 60px - 60px);
 }
 .nameDisplay {
