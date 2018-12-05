@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
         var mapWidth = 1.64 * mapHeight;
         
         var mapDiv = document.getElementById("map");
-        if (mapDiv.offsetWidth < mapWidth) {
+        if (mapDiv.offsetWidth < mapWidth) {2
             mapWidth = mapDiv.offsetWidth;
             mapHeight = mapWidth / 1.64;
         }
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }),
     };
     
-    var startDate = new Date('November 19, 2016 05:00:00');
+    var startDate = new Date('November 19, 2017 05:00:00');
     var styleFunction = function(feature) {
         var splitDate = feature.getProperties().date.split("-");
         
@@ -125,12 +125,12 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     };
     
-    fetch('static/map/data/2017.json').then(function(data) {
+    fetch('static/map/data/2018.json').then(function(data) {
         return data.json();
     }).then(function(data){
         var vectorSource = new ol.source.Vector({
             features: (new ol.format.GeoJSON()).readFeatures(data),
-            attributions: 'Date and location of deaths sourced from Abernathey, M. <i>Memorializing 2017</i>. Retrieved Nov 20, 2017 from <a href="https://tdor.info/" target="_blank">https://tdor.info/<a>.'
+            attributions: 'Date and location of deaths sourced from Abernathey, M. <i>Memorializing 2018</i>. Retrieved Dec 4, 2018 from <a href="https://tdor.info/" target="_blank">https://tdor.info/<a>.'
         });
 
         vectorSource.addFeature(new ol.Feature(new ol.geom.Circle([5e6, 7e6], 1e6)));
@@ -166,7 +166,7 @@ document.addEventListener("DOMContentLoaded", function() {
         map.getView().fit([-180, -90, 180, 90], {nearest: true}); // Not exactly the projection's dimensions to make sure the map doesn't zoom out too much
 
         var frameRate = 7; // frames per second
-        var maxDate = new Date('November 19, 2017 05:00:00');
+        var maxDate = new Date('November 19, 2018 05:00:00');
         var animationId = window.setInterval(setTime, 1000 / frameRate);
         var isPlaying = false;
 
@@ -194,7 +194,7 @@ document.addEventListener("DOMContentLoaded", function() {
             isPlaying = false;
         });
         playbackReset.addEventListener("click", function(){
-            startDate.setTime(new Date('November 19, 2016 05:00:00'));
+            startDate.setTime(new Date('November 19, 2017 05:00:00'));
             startDate.setHours(5, 0, 0, 0);
             document.getElementById("currentDate").innerHTML = startDate.toLocaleDateString();
             vectorLayer.changed();

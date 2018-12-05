@@ -1,0 +1,4955 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -63.61667199999999,
+            -38.416097
+          ]
+        },
+        "properties": {
+          "name": "",
+          "city": "",
+          "date": "",
+          "cause": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -58.3815591,
+            -34.6036844
+          ]
+        },
+        "properties": {
+          "name": "Carolina/Camila Angulo Paredes",
+          "city": "Buenos Aires, Argentina",
+          "date": "29-Dec-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -65.2175903,
+            -26.8082848
+          ]
+        },
+        "properties": {
+          "name": "Lourdes Reinoso",
+          "city": "Tucuman, Argentina",
+          "date": "14-Jan-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -65.0317175,
+            -42.7694476
+          ]
+        },
+        "properties": {
+          "name": "Ynina",
+          "city": "Puerto Madryn, Argentina",
+          "date": "30-Jan-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.5833282,
+            -31.6000004
+          ]
+        },
+        "properties": {
+          "name": "Adriana Estefanía Bonetto",
+          "city": "San Jose del Rincon, Argentina",
+          "date": "8-Feb-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -64.3498601,
+            -33.1001513
+          ]
+        },
+        "properties": {
+          "name": "Cinthia Moreira",
+          "city": "Villa Alen, Argentina",
+          "date": "22-Feb-18",
+          "cause": "decapitated/dismembered"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.697294,
+            -31.6106578
+          ]
+        },
+        "properties": {
+          "name": "Sol Gómez",
+          "city": "Santa Fe, Argentina",
+          "date": "7-Mar-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -58.3815591,
+            -34.6036844
+          ]
+        },
+        "properties": {
+          "name": "Julia Ponce",
+          "city": "Buenos Aires, Argentina",
+          "date": "23-Jul-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -63.61667199999999,
+            -38.416097
+          ]
+        },
+        "properties": {
+          "name": "Yanelis Rodríguez",
+          "city": "Argentina, Argentina",
+          "date": "31-Aug-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            89.85284159999999,
+            22.4499409
+          ]
+        },
+        "properties": {
+          "name": "Sonia Akter",
+          "city": "Morrelganj, Bangladesh",
+          "date": "31-Dec-17",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.0217314,
+            -3.1190275
+          ]
+        },
+        "properties": {
+          "name": "L. de Souza Pereira",
+          "city": "Manaus, Brazil",
+          "date": "23-Nov-17",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.275484,
+            -18.9127432
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Uberlândia, Brazil",
+          "date": "28-Nov-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -36.6639592,
+            -9.755571999999999
+          ]
+        },
+        "properties": {
+          "name": "Milena",
+          "city": "Arapiraca, Brazil",
+          "date": "1-Dec-17",
+          "cause": "stoned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.5016301,
+            -12.977749
+          ]
+        },
+        "properties": {
+          "name": "Andressa Xoda",
+          "city": "Pauladas E Tiros – Salvador, Brazil",
+          "date": "3-Dec-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -39.0653656,
+            -16.4443537
+          ]
+        },
+        "properties": {
+          "name": "Eduarda Figueiredo",
+          "city": "Porto Seguro, Brazil",
+          "date": "3-Dec-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.54821949999999,
+            -27.5948698
+          ]
+        },
+        "properties": {
+          "name": "Júlia Volp",
+          "city": "Florianópolis, Brazil",
+          "date": "4-Dec-17",
+          "cause": "tortured"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.1728965,
+            -22.9068467
+          ]
+        },
+        "properties": {
+          "name": "Jéssica Dimy",
+          "city": "Rio de Janeiro, Brazil",
+          "date": "7-Dec-17",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.93915399999999,
+            -19.7473668
+          ]
+        },
+        "properties": {
+          "name": "Sabrina",
+          "city": "Uberaba, Brazil",
+          "date": "7-Dec-17",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.1728965,
+            -22.9068467
+          ]
+        },
+        "properties": {
+          "name": "Luany Aquamarine",
+          "city": "Rio de Janeiro, Brazil",
+          "date": "9-Dec-17",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -40.4216659,
+            -20.366875
+          ]
+        },
+        "properties": {
+          "name": "Luna Shine",
+          "city": "Viana, Brazil",
+          "date": "11-Dec-17",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -36.0597471,
+            -8.488021999999999
+          ]
+        },
+        "properties": {
+          "name": "Marquete F. C. de Lima",
+          "city": "Altinho, Brazil",
+          "date": "13-Dec-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.0686083,
+            -11.7283752
+          ]
+        },
+        "properties": {
+          "name": "Kebeca G. de Souza",
+          "city": "Gurupi, Brazil",
+          "date": "16-Dec-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.63330939999999,
+            -23.5505199
+          ]
+        },
+        "properties": {
+          "name": "Larissa Paiva",
+          "city": "Sao Paulo, Brazil",
+          "date": "17-Dec-17",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -34.8450118,
+            -7.119495799999999
+          ]
+        },
+        "properties": {
+          "name": "Rose",
+          "city": "João Pessoa, Brazil",
+          "date": "17-Dec-17",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -39.3752513,
+            -11.2544913
+          ]
+        },
+        "properties": {
+          "name": "Lorrany “Lhoane” Oliveira",
+          "city": "Santaluz, Brazil",
+          "date": "26-Dec-17",
+          "cause": "tortured"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.93915399999999,
+            -19.7473668
+          ]
+        },
+        "properties": {
+          "name": "V. O. Silva",
+          "city": "Uberaba, Brazil",
+          "date": "30-Dec-17",
+          "cause": "tortured"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.4901785,
+            -1.4557292
+          ]
+        },
+        "properties": {
+          "name": "Silvia Gomes Marques",
+          "city": "Belem, Brazil",
+          "date": "1-Jan-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.4901785,
+            -1.4557292
+          ]
+        },
+        "properties": {
+          "name": "Fany Diniz",
+          "city": "Belem, Brazil",
+          "date": "3-Jan-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.9646782,
+            -12.2597246
+          ]
+        },
+        "properties": {
+          "name": "C. Sobral",
+          "city": "Feira de Santana, Brazil",
+          "date": "5-Jan-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.92182039999999,
+            -15.826691
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Brasília, Brazil",
+          "date": "5-Jan-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -41.7783795,
+            -4.2646698
+          ]
+        },
+        "properties": {
+          "name": "W. Peixoto",
+          "city": "Piripiri, Brazil",
+          "date": "9-Jan-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -34.9286096,
+            -8.0522404
+          ]
+        },
+        "properties": {
+          "name": "C. Figueiredo",
+          "city": "Recife, Brazil",
+          "date": "17-Jan-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -57.4875207,
+            -14.6197551
+          ]
+        },
+        "properties": {
+          "name": "Carol Alves",
+          "city": "Tangará da Serra, Brazil",
+          "date": "17-Jan-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.4901785,
+            -1.4557292
+          ]
+        },
+        "properties": {
+          "name": "Kelly",
+          "city": "Belém, Brazil",
+          "date": "20-Jan-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.9445957,
+            -1.9930572
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Concórdia do Pará, Brazil",
+          "date": "20-Jan-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -56.1327131,
+            -15.646248
+          ]
+        },
+        "properties": {
+          "name": "Júlia de Arruda",
+          "city": "Várzea Grande, Brazil",
+          "date": "21-Jan-18",
+          "cause": "other"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.669563,
+            -3.4271347
+          ]
+        },
+        "properties": {
+          "name": "Lohane",
+          "city": "Governador Newton Bello, Brazil",
+          "date": "23-Jan-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5648481,
+            -23.6898429
+          ]
+        },
+        "properties": {
+          "name": "Rios Dayane Macklarenn",
+          "city": "São Bernardo do Campo, Brazil",
+          "date": "26-Jan-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -34.9286096,
+            -8.0522404
+          ]
+        },
+        "properties": {
+          "name": "Raquel Cosinele",
+          "city": "Recife, Brazil",
+          "date": "27-Jan-18",
+          "cause": "stoned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.127133,
+            -10.8530908
+          ]
+        },
+        "properties": {
+          "name": "Samira de Alcantara",
+          "city": "Nossa Senhora do Socorro, Brazil",
+          "date": "29-Jan-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.1736003,
+            -19.691895
+          ]
+        },
+        "properties": {
+          "name": "Natália Ketlyn",
+          "city": "Campos Altos, Brazil",
+          "date": "1-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -36.4969127,
+            -8.882855100000002
+          ]
+        },
+        "properties": {
+          "name": "Hemilly Dbx",
+          "city": "Garanhuns, Brazil",
+          "date": "6-Feb-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -40.6351179,
+            -19.5262632
+          ]
+        },
+        "properties": {
+          "name": "Anninha Ferreira Rochee",
+          "city": "Colatina, Brazil",
+          "date": "7-Feb-18",
+          "cause": "decapitated/dismembered"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -35.2979382,
+            -8.1286072
+          ]
+        },
+        "properties": {
+          "name": "A. da S. Silvério",
+          "city": "Vitíoria de São Antão, Brazil",
+          "date": "8-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -40.2957768,
+            -20.2976178
+          ]
+        },
+        "properties": {
+          "name": "Lohan",
+          "city": "Vitoria, Brazil",
+          "date": "8-Feb-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.460945,
+            -4.1731846
+          ]
+        },
+        "properties": {
+          "name": "Milonga F. L. Martins",
+          "city": "Pacajus, Brazil",
+          "date": "9-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.275484,
+            -18.9127432
+          ]
+        },
+        "properties": {
+          "name": "Dominique",
+          "city": "Uberlândia, Brazil",
+          "date": "10-Feb-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -35.8369269,
+            -9.477877699999999
+          ]
+        },
+        "properties": {
+          "name": "Nayra Winston",
+          "city": "Rio Largo, Brazil",
+          "date": "10-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.5269981,
+            -3.7327144
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Fortaleza, Brazil",
+          "date": "11-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.4901785,
+            -1.4557292
+          ]
+        },
+        "properties": {
+          "name": "Bruna",
+          "city": "Belém, Brazil",
+          "date": "12-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.5016301,
+            -12.977749
+          ]
+        },
+        "properties": {
+          "name": "Keila",
+          "city": "Salvador, Brazil",
+          "date": "12-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -34.8450118,
+            -7.119495799999999
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Joao Pessoa, Brazil",
+          "date": "12-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.0217314,
+            -3.1190275
+          ]
+        },
+        "properties": {
+          "name": "K. Silva",
+          "city": "Manaus, Brazil",
+          "date": "13-Feb-18",
+          "cause": "tortured"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.63330939999999,
+            -23.5505199
+          ]
+        },
+        "properties": {
+          "name": "Pérola",
+          "city": "Sao Paulo, Brazil",
+          "date": "14-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.9445957,
+            -1.9930572
+          ]
+        },
+        "properties": {
+          "name": "Bruna Ferrari",
+          "city": "Concórdia do Pará, Brazil",
+          "date": "15-Feb-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.8103238,
+            -21.1704008
+          ]
+        },
+        "properties": {
+          "name": "Laysla Oliveira",
+          "city": "Ribeirão Preto, Brazil",
+          "date": "18-Feb-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -34.8450118,
+            -7.119495799999999
+          ]
+        },
+        "properties": {
+          "name": "Amanda Rios",
+          "city": "João Pessoa, Brazil",
+          "date": "19-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.3798356,
+            -22.3605361
+          ]
+        },
+        "properties": {
+          "name": "Eduarda Brasil",
+          "city": "Araras, Brazil",
+          "date": "19-Feb-18",
+          "cause": "other"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -34.8450118,
+            -7.119495799999999
+          ]
+        },
+        "properties": {
+          "name": "Rayana Ribeiro",
+          "city": "João Pessoa, Brazil",
+          "date": "20-Feb-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -34.9286096,
+            -8.0522404
+          ]
+        },
+        "properties": {
+          "name": "Bia Rocha",
+          "city": "Recife, Brazil",
+          "date": "23-Feb-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.1728965,
+            -22.9068467
+          ]
+        },
+        "properties": {
+          "name": "Claudia Oliveira",
+          "city": "Rio de Janeiro, Brazil",
+          "date": "23-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.1825899,
+            -22.9144053
+          ]
+        },
+        "properties": {
+          "name": "Fernanda Caetano",
+          "city": "Lapa, Brazil",
+          "date": "23-Feb-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -69.8597406,
+            10.1537842
+          ]
+        },
+        "properties": {
+          "name": "Kimberlys Ochoa",
+          "city": "Lara, Venezuela",
+          "date": "25-Feb-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -40.0633101,
+            -18.7002308
+          ]
+        },
+        "properties": {
+          "name": "Fernanda “Pit” Dias",
+          "city": "São Mateus, Brazil",
+          "date": "27-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.1728965,
+            -22.9068467
+          ]
+        },
+        "properties": {
+          "name": "Alessandra da Silva Alves",
+          "city": "Rio de Janeiro, Brazil",
+          "date": "1-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.1728965,
+            -22.9068467
+          ]
+        },
+        "properties": {
+          "name": "Shayene",
+          "city": "Rio de Janeiro, Brazil",
+          "date": "1-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -34.8450118,
+            -7.119495799999999
+          ]
+        },
+        "properties": {
+          "name": "Palola",
+          "city": "João Pessoa, Brazil",
+          "date": "4-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.63330939999999,
+            -23.5505199
+          ]
+        },
+        "properties": {
+          "name": "Samielly Castro",
+          "city": "São Paulo, Brazil",
+          "date": "4-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -36.7667073,
+            -9.6177297
+          ]
+        },
+        "properties": {
+          "name": "Pâmela Tabete",
+          "city": "Craiba, Brazil",
+          "date": "8-Mar-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -52.2618826,
+            -15.8916202
+          ]
+        },
+        "properties": {
+          "name": "Thalita da Silva",
+          "city": "Barra do Garças, Brazil",
+          "date": "13-Mar-18",
+          "cause": "throat cut"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -40.2949528,
+            -20.3477821
+          ]
+        },
+        "properties": {
+          "name": "J. Oliveira da Silva",
+          "city": "Vila Velha, Brazil",
+          "date": "16-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.2086085,
+            -22.8052385
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Ilha do Governador, Brazil",
+          "date": "17-Mar-18",
+          "cause": "decapitated/dismembered"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.3746372,
+            -1.3650671
+          ]
+        },
+        "properties": {
+          "name": "Bruna Gabriel",
+          "city": "Ananindeua, Brazil",
+          "date": "19-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.3746372,
+            -1.3650671
+          ]
+        },
+        "properties": {
+          "name": "N. Naza",
+          "city": "Ananindeua, Brazil",
+          "date": "19-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.0010282,
+            -16.5236174
+          ]
+        },
+        "properties": {
+          "name": "Paola Oliveira",
+          "city": "Luziânia, Brazil",
+          "date": "20-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -52.3375886,
+            -31.7653989
+          ]
+        },
+        "properties": {
+          "name": "Alanis Burgo",
+          "city": "Pelotas, Brazil",
+          "date": "22-Mar-18",
+          "cause": "suffocated"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.2473044,
+            -16.820257
+          ]
+        },
+        "properties": {
+          "name": "Giorginye Dias de Siqueira",
+          "city": "Aparecida de Goiânia, Brazil",
+          "date": "22-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.150283,
+            -29.7549941
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "São Leopoldo, Brazil",
+          "date": "22-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -39.5904206,
+            -14.8658768
+          ]
+        },
+        "properties": {
+          "name": "Daniela Santos",
+          "city": "Ibicaraí, Brazil",
+          "date": "23-Mar-18",
+          "cause": "tortured"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.8004866,
+            -16.0222492
+          ]
+        },
+        "properties": {
+          "name": "Cleide Aládio Zaramarine Neto",
+          "city": "Itaberaí, Brazil",
+          "date": "25-Mar-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -39.3024503,
+            -7.2986432
+          ]
+        },
+        "properties": {
+          "name": "Hilda de Melo Matias",
+          "city": "Barbalha, Brazil",
+          "date": "25-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -52.3375886,
+            -31.7653989
+          ]
+        },
+        "properties": {
+          "name": "Eduarda Amaro",
+          "city": "Pelotas, Brazil",
+          "date": "29-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.6775829,
+            -3.8829604
+          ]
+        },
+        "properties": {
+          "name": "Elvira Costa Ferreira",
+          "city": "Maranguape, Brazil",
+          "date": "2-Apr-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -41.9593241,
+            -22.3233696
+          ]
+        },
+        "properties": {
+          "name": "Andressa Muda",
+          "city": "Macaé, Brazil",
+          "date": "3-Apr-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -42.80375970000001,
+            -5.0920108
+          ]
+        },
+        "properties": {
+          "name": "Benjamin de Jesus Sousa",
+          "city": "Teresina, Brazil",
+          "date": "6-Apr-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.9646782,
+            -12.2597246
+          ]
+        },
+        "properties": {
+          "name": "Angra Alessandra Cupertino",
+          "city": "Feira de Santana, Brazil",
+          "date": "7-Apr-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.127133,
+            -10.8530908
+          ]
+        },
+        "properties": {
+          "name": "Millany Spencer",
+          "city": "Nossa Senhora do Socorro, Brazil",
+          "date": "14-Apr-18",
+          "cause": "Beaten and strangled"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.96494209999999,
+            -29.459582
+          ]
+        },
+        "properties": {
+          "name": "Nati da Silva",
+          "city": "Lajeado, Brazil",
+          "date": "20-Apr-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -41.95592329999999,
+            -18.8549317
+          ]
+        },
+        "properties": {
+          "name": "Nycoly Souza Nardoni Bhals",
+          "city": "Governador Valadares, Brazil",
+          "date": "22-Apr-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -63.90043979999999,
+            -8.7611933
+          ]
+        },
+        "properties": {
+          "name": "Gabriely Fancciny",
+          "city": "Porto Velho, Brazil",
+          "date": "28-Apr-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.1728965,
+            -22.9068467
+          ]
+        },
+        "properties": {
+          "name": "Matheusx Passarelli",
+          "city": "Rio de Janeiro, Brazil",
+          "date": "29-Apr-18",
+          "cause": "burned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.1152587,
+            -22.8859267
+          ]
+        },
+        "properties": {
+          "name": "Raunna Silva",
+          "city": "Niterói, Brazil",
+          "date": "30-Apr-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -54.6201211,
+            -20.4697105
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Campo Grande, Brazil",
+          "date": "30-Apr-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.3798356,
+            -22.3605361
+          ]
+        },
+        "properties": {
+          "name": "Bianca Santos Albuquerque",
+          "city": "Araras, Brazil",
+          "date": "30-Apr-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.5269981,
+            -3.7327144
+          ]
+        },
+        "properties": {
+          "name": "Paulinha",
+          "city": "Fortaleza, Brazil",
+          "date": "1-May-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -40.8445346,
+            -14.8619237
+          ]
+        },
+        "properties": {
+          "name": "C. Alves",
+          "city": "Vitória da Conquista, Brazil",
+          "date": "8-May-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -44.9468323,
+            -17.3488128
+          ]
+        },
+        "properties": {
+          "name": "Myrella Mhell",
+          "city": "Pirapora, Brazil",
+          "date": "21-May-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -44.3252804,
+            -3.1391096
+          ]
+        },
+        "properties": {
+          "name": "Pandora",
+          "city": "Santa Rita, Brazil",
+          "date": "21-May-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -44.7855844,
+            -4.2221443
+          ]
+        },
+        "properties": {
+          "name": "Beatriz Ribeiro",
+          "city": "Bacabal, Brazil",
+          "date": "25-May-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.8978057,
+            -23.1857076
+          ]
+        },
+        "properties": {
+          "name": "D.R.C.",
+          "city": "Jundiaí, Brazil",
+          "date": "25-May-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.8004866,
+            -16.0222492
+          ]
+        },
+        "properties": {
+          "name": "I. Silva",
+          "city": "Itaberaí, Brazil",
+          "date": "29-May-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.6261113,
+            -3.8674127
+          ]
+        },
+        "properties": {
+          "name": "Patrícia Pereira",
+          "city": "Maracanaú, Brazil",
+          "date": "31-May-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.6261113,
+            -3.8674127
+          ]
+        },
+        "properties": {
+          "name": "Nayra Matos",
+          "city": "Maracanaú, Brazil",
+          "date": "31-May-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -59.22302279999999,
+            -9.4637242
+          ]
+        },
+        "properties": {
+          "name": "Britney Vaz",
+          "city": "Colniza, Brazil",
+          "date": "3-Jun-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.5016301,
+            -12.977749
+          ]
+        },
+        "properties": {
+          "name": "Vitória",
+          "city": "Salvador, Brazil",
+          "date": "3-Jun-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.0217314,
+            -3.1190275
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Manaus, Brazil",
+          "date": "6-Jun-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.54821949999999,
+            -27.5948698
+          ]
+        },
+        "properties": {
+          "name": "Kamila Roberta",
+          "city": "Florianópolis, Brazil",
+          "date": "7-Jun-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.150283,
+            -29.7549941
+          ]
+        },
+        "properties": {
+          "name": "Fernanda Reichert",
+          "city": "São Leopoldo, Brazil",
+          "date": "9-Jun-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.6758331,
+            2.8235098
+          ]
+        },
+        "properties": {
+          "name": "Tiffanny Montel",
+          "city": "Boa Vista, Brazil",
+          "date": "10-Jun-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.3996264,
+            -22.7645391
+          ]
+        },
+        "properties": {
+          "name": "Agatha Gomes (Bebê)",
+          "city": "Belford Roxo, Brazil",
+          "date": "19-Jun-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -56.0041451,
+            -28.6583059
+          ]
+        },
+        "properties": {
+          "name": "Thalia Costa Barboza",
+          "city": "São Borja, Brazil",
+          "date": "21-Jun-18",
+          "cause": "stoned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -42.0385904,
+            -22.6849181
+          ]
+        },
+        "properties": {
+          "name": "Nikolly Silva",
+          "city": "Cabo Frio, Brazil",
+          "date": "22-Jun-18",
+          "cause": "stoned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.1545956,
+            -25.0949322
+          ]
+        },
+        "properties": {
+          "name": "Gaby Scheifer",
+          "city": "Ponta Grossa, Brazil",
+          "date": "23-Jun-18",
+          "cause": "run-over by car"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.5016301,
+            -12.977749
+          ]
+        },
+        "properties": {
+          "name": "Índia da Silva Pellegrine",
+          "city": "Salvador, Brazil",
+          "date": "25-Jun-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.6734334,
+            -10.9195816
+          ]
+        },
+        "properties": {
+          "name": "Bruna da Conceição",
+          "city": "Lagarto, Brazil",
+          "date": "25-Jun-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.460945,
+            -4.1731846
+          ]
+        },
+        "properties": {
+          "name": "Carla Croft",
+          "city": "Pacajus, Brazil",
+          "date": "29-Jun-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            75.57618289999999,
+            31.3260152
+          ]
+        },
+        "properties": {
+          "name": "Deepa",
+          "city": "Jalandhar, India",
+          "date": "3-Jul-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.637905,
+            -27.0015756
+          ]
+        },
+        "properties": {
+          "name": "Mirela",
+          "city": "Balneário Camboriú, Brazil",
+          "date": "4-Jul-18",
+          "cause": "strangled/hanged"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -34.9286096,
+            -8.0522404
+          ]
+        },
+        "properties": {
+          "name": "Shirley dos Santos",
+          "city": "Recife, Brazil",
+          "date": "4-Jul-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -41.8799408,
+            -21.1877747
+          ]
+        },
+        "properties": {
+          "name": "Michele Silveira",
+          "city": "Itaperuna, Brazil",
+          "date": "7-Jul-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -54.6201211,
+            -20.4697105
+          ]
+        },
+        "properties": {
+          "name": "Fernanda da Biz",
+          "city": "Campo Grande, Brazil",
+          "date": "8-Jul-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.3044253,
+            -25.4808762
+          ]
+        },
+        "properties": {
+          "name": "Aisha Albuquerque",
+          "city": "Curitiba, Brazil",
+          "date": "13-Jul-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.0686083,
+            -11.7283752
+          ]
+        },
+        "properties": {
+          "name": "Daniela Cicarelli",
+          "city": "Gurupi, Brazil",
+          "date": "17-Jul-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.3331983,
+            -12.6971776
+          ]
+        },
+        "properties": {
+          "name": "Lay Neves de Santana",
+          "city": "Camaçari, Brazil",
+          "date": "17-Jul-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -41.8799408,
+            -21.1877747
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Itaperuna, Brazil",
+          "date": "20-Jul-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -44.9806365,
+            -19.8710802
+          ]
+        },
+        "properties": {
+          "name": "Paola Villefort",
+          "city": "Nova Serrana, Brazil",
+          "date": "23-Jul-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.2176584,
+            -30.0346471
+          ]
+        },
+        "properties": {
+          "name": "Daiane Souza",
+          "city": "Porto Alegre, Brazil",
+          "date": "26-Jul-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.1728965,
+            -22.9068467
+          ]
+        },
+        "properties": {
+          "name": "Gaby Arantes",
+          "city": "Rio de Janeiro, Brazil",
+          "date": "28-Jul-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.7750681,
+            -22.548794
+          ]
+        },
+        "properties": {
+          "name": "Dudu dos Santos Duarte",
+          "city": "Paraisópolis, Brazil",
+          "date": "3-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.5016301,
+            -12.977749
+          ]
+        },
+        "properties": {
+          "name": "Lalesca",
+          "city": "Salvador, Brazil",
+          "date": "5-Aug-18",
+          "cause": "throat cut"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -38.5269981,
+            -3.7327144
+          ]
+        },
+        "properties": {
+          "name": "Paloma Ferreira",
+          "city": "Fortaleza, Brazil",
+          "date": "6-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -41.3267187,
+            -21.7587303
+          ]
+        },
+        "properties": {
+          "name": "Paolla “LelÍ” Blayton",
+          "city": "Campos, Brazil",
+          "date": "7-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -41.8799408,
+            -19.7221668
+          ]
+        },
+        "properties": {
+          "name": "Karlla da Silva Balbino",
+          "city": "Caratinga, Brazil",
+          "date": "9-Aug-18",
+          "cause": "strangled/hanged"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.54821949999999,
+            -27.5948698
+          ]
+        },
+        "properties": {
+          "name": "T‚nia Lopes",
+          "city": "Florianópolis, Brazil",
+          "date": "10-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -35.0304219,
+            -8.2794398
+          ]
+        },
+        "properties": {
+          "name": "Renata",
+          "city": "Cabo de Santo Agostinho, Brazil",
+          "date": "12-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.3477805,
+            -5.1841285
+          ]
+        },
+        "properties": {
+          "name": "Krispim Souza de Araujo",
+          "city": "Mossóro, Brazil",
+          "date": "14-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.3477805,
+            -5.1841285
+          ]
+        },
+        "properties": {
+          "name": "D. M. Teixeira",
+          "city": "Mossóro, Brazil",
+          "date": "20-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.3477805,
+            -5.1841285
+          ]
+        },
+        "properties": {
+          "name": "A. L. da Silva Bezerra",
+          "city": "Mossóro, Brazil",
+          "date": "20-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -35.9819367,
+            -8.276017999999999
+          ]
+        },
+        "properties": {
+          "name": "Evelin Ferrari",
+          "city": "Caruaru, Brazil",
+          "date": "21-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.3044253,
+            -25.4808762
+          ]
+        },
+        "properties": {
+          "name": "J. F. de Souza",
+          "city": "Curitiba, Brazil",
+          "date": "23-Aug-18",
+          "cause": "stoned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4603739,
+            -4.3151412
+          ]
+        },
+        "properties": {
+          "name": "Sheila dos Santos",
+          "city": "Buriticupu, Brazil",
+          "date": "23-Aug-18",
+          "cause": "stoned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -56.0978917,
+            -15.6014109
+          ]
+        },
+        "properties": {
+          "name": "Paola dos Reis",
+          "city": "Cuiaba, Brazil",
+          "date": "30-Aug-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.412475,
+            -24.0088603
+          ]
+        },
+        "properties": {
+          "name": "Rayka",
+          "city": "Praia Grande, Brazil",
+          "date": "30-Aug-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.0217314,
+            -3.1190275
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Manaus, Brazil",
+          "date": "31-Aug-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.2648114,
+            -16.6868982
+          ]
+        },
+        "properties": {
+          "name": "Deia Alves Maciel",
+          "city": "Goiania, Brazil",
+          "date": "1-Sep-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.63330939999999,
+            -23.5505199
+          ]
+        },
+        "properties": {
+          "name": "Maria Luíza",
+          "city": "Sao Paulo, Brazil",
+          "date": "1-Sep-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -42.941698,
+            -11.0515851
+          ]
+        },
+        "properties": {
+          "name": "Rafaela Sena",
+          "city": "Xique-xique, Brazil",
+          "date": "2-Sep-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.1728965,
+            -22.9068467
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Rio de Janeiro, Brazil",
+          "date": "6-Sep-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.63330939999999,
+            -23.5505199
+          ]
+        },
+        "properties": {
+          "name": "Monique Manardi Lee",
+          "city": "Sao Paulo, Brazil",
+          "date": "11-Sep-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -56.0978917,
+            -15.6014109
+          ]
+        },
+        "properties": {
+          "name": "Abya Passos Mantovanny",
+          "city": "Cuiaba, Brazil",
+          "date": "15-Sep-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.4901785,
+            -1.4557292
+          ]
+        },
+        "properties": {
+          "name": "Kemily",
+          "city": "Belem, Brazil",
+          "date": "16-Sep-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -40.6598105,
+            -20.360797
+          ]
+        },
+        "properties": {
+          "name": "J. Oliveira de Araújo",
+          "city": "Martins, Brazil",
+          "date": "24-Sep-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.6734334,
+            -10.9195816
+          ]
+        },
+        "properties": {
+          "name": "Nicolly",
+          "city": "Lagarto, Brazil",
+          "date": "26-Sep-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.11929359999999,
+            -16.489689
+          ]
+        },
+        "properties": {
+          "name": "Veronica Carbajal Pinto",
+          "city": "La Paz, Bolivia",
+          "date": "27-Nov-17",
+          "cause": "suffocated"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.0849613,
+            -16.5412562
+          ]
+        },
+        "properties": {
+          "name": "Adri Adely Jurado",
+          "city": "La Paz, Bolivia",
+          "date": "13-Jul-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.6107885,
+            -33.4203593
+          ]
+        },
+        "properties": {
+          "name": "Paloma",
+          "city": "Santiago, Chile",
+          "date": "14-Feb-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5812119,
+            6.244203
+          ]
+        },
+        "properties": {
+          "name": "Marilyn Cipriany Guzmán",
+          "city": "Medellín, Colombia",
+          "date": "30-Dec-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.87074299999999,
+            4.88917
+          ]
+        },
+        "properties": {
+          "name": "Chelsy/Cristal Grisales Molina",
+          "city": "La Virginia, Colombia",
+          "date": "24-Jan-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.66798399999999,
+            5.472709
+          ]
+        },
+        "properties": {
+          "name": "Silvana Pineda",
+          "city": "La Dorada, Colombia",
+          "date": "27-Jan-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.21174649999999,
+            4.5827227
+          ]
+        },
+        "properties": {
+          "name": "J. A. Marín Marín",
+          "city": "Soacha, Colombia",
+          "date": "1-Feb-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.072092,
+            4.710988599999999
+          ]
+        },
+        "properties": {
+          "name": "Tatiana/Tetris/Muelas",
+          "city": "Bogota, Colombia",
+          "date": "10-Feb-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.072092,
+            4.710988599999999
+          ]
+        },
+        "properties": {
+          "name": "Alexa Amero Sierra",
+          "city": "Bogota, Colombia",
+          "date": "9-Mar-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.75012,
+            4.566637
+          ]
+        },
+        "properties": {
+          "name": "Lorena Molina López",
+          "city": "Montenegro, Colombia",
+          "date": "25-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5138166,
+            5.070275
+          ]
+        },
+        "properties": {
+          "name": "Alejandra Torres Torres",
+          "city": "Manizales, Colombia",
+          "date": "22-Apr-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.5319854,
+            3.4516467
+          ]
+        },
+        "properties": {
+          "name": "Abril Natasha Quiñónez",
+          "city": "Cali, Colombia",
+          "date": "12-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.2436335,
+            10.4742449
+          ]
+        },
+        "properties": {
+          "name": "Lili Chirinos Carrillo",
+          "city": "Valledupar, Colombia",
+          "date": "18-Aug-18",
+          "cause": "shot in the head"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.57405,
+            8.049293
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Cordova, Colombia",
+          "date": "31-Aug-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.0218469,
+            5.852475999999999
+          ]
+        },
+        "properties": {
+          "name": "Carol Perez Guerrero",
+          "city": "Ciudad Bolivar, Colombia",
+          "date": "22-Sep-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -66.1564825,
+            -17.399101
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Cochabamba, Colombia",
+          "date": "23-Sep-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.5319854,
+            3.4516467
+          ]
+        },
+        "properties": {
+          "name": "Valeria Sandoval",
+          "city": "Cali, Colombia",
+          "date": "28-Sep-18",
+          "cause": "asphyxiated"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.18340599999999,
+            -1.831239
+          ]
+        },
+        "properties": {
+          "name": "Blanca",
+          "city": "La Vega, Dominican Republic",
+          "date": "27-Jan-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4604035,
+            -1.0225124
+          ]
+        },
+        "properties": {
+          "name": "Isabel Borja Suárez",
+          "city": "Quevedo, Ecuador",
+          "date": "13-May-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.9796776,
+            13.495364
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Departamente de la Paz, El Salvador",
+          "date": "30-Nov-17",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.6769193,
+            13.9896097
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Chalchuapa, El Salvador",
+          "date": "18-Jan-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.0561532,
+            13.8661957
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Cuscatlan, El Salvador",
+          "date": "8-Mar-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.89653,
+            13.794185
+          ]
+        },
+        "properties": {
+          "name": "D. A. Portillo Jiménez",
+          "city": "El Salvador, El Salvador",
+          "date": "21-Mar-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.56391190000001,
+            13.9778279
+          ]
+        },
+        "properties": {
+          "name": "Geovanny Romero Ortiz",
+          "city": "Santa Ana, El Salvador",
+          "date": "3-Jun-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.13725269999999,
+            13.710045
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Soyopango, El Salvador",
+          "date": "31-Aug-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.3522219,
+            48.856614
+          ]
+        },
+        "properties": {
+          "name": "Flávia Luiza",
+          "city": "Paris, France",
+          "date": "27-Dec-17",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.3522219,
+            48.856614
+          ]
+        },
+        "properties": {
+          "name": "Vanessa Campos",
+          "city": "Paris, France",
+          "date": "17-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            178.4500789,
+            -18.1248086
+          ]
+        },
+        "properties": {
+          "name": "Lucky Salavuki",
+          "city": "Suva, Fiji",
+          "date": "17-May-18",
+          "cause": "stoned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -91.5231866,
+            14.8446068
+          ]
+        },
+        "properties": {
+          "name": "E. G. Sarat",
+          "city": "Xela, Guatamala",
+          "date": "27-Nov-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.3160286,
+            15.1052115
+          ]
+        },
+        "properties": {
+          "name": "A. Sis",
+          "city": "Salama, Guatamala",
+          "date": "16-Jul-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.9930052,
+            14.6325483
+          ]
+        },
+        "properties": {
+          "name": "Yessika Ruedas Gómez",
+          "city": "Jalapa, Guatamala",
+          "date": "28-Aug-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.532961,
+            14.808121
+          ]
+        },
+        "properties": {
+          "name": "Débora Ramos Cordón",
+          "city": "Chiquimula, Guatamala",
+          "date": "22-Sep-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.9922684,
+            15.5149204
+          ]
+        },
+        "properties": {
+          "name": "Tyty",
+          "city": "San Pedro Sula, Honduras",
+          "date": "23-Jan-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            77.2090212,
+            28.6139391
+          ]
+        },
+        "properties": {
+          "name": "Mohit",
+          "city": "New Delhi, India",
+          "date": "17-Dec-17",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.99773309999999,
+            17.6895915
+          ]
+        },
+        "properties": {
+          "name": "Devudamma Surya Narayana",
+          "city": "Anakapalle, India",
+          "date": "24-Dec-17",
+          "cause": "burned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            78.1197754,
+            9.9252007
+          ]
+        },
+        "properties": {
+          "name": "V. Alphonze",
+          "city": "Madurai, India",
+          "date": "10-Apr-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.9170312,
+            26.7990058
+          ]
+        },
+        "properties": {
+          "name": "Chanchal",
+          "city": "Aashiana, India",
+          "date": "22-Apr-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            75.9085792,
+            22.7367662
+          ]
+        },
+        "properties": {
+          "name": "Manju",
+          "city": "Khajrana, India",
+          "date": "7-May-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            78.41688959999999,
+            17.4161571
+          ]
+        },
+        "properties": {
+          "name": "Chandraiah",
+          "city": "Hyderabad, India",
+          "date": "26-May-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.7167242,
+            41.7196755
+          ]
+        },
+        "properties": {
+          "name": "Ximena Garcia",
+          "city": "Nemi, Italy",
+          "date": "10-Mar-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.4963655,
+            41.9027835
+          ]
+        },
+        "properties": {
+          "name": "Rafaella Rotocalco",
+          "city": "Rome, Italy",
+          "date": "11-Sep-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.7929636,
+            43.18017589999999
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "San Giorgio, Italy",
+          "date": "23-Sep-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0691004,
+            28.6329957
+          ]
+        },
+        "properties": {
+          "name": "Kendrika Itzel D Espino",
+          "city": "Chihuahua, Mexico",
+          "date": "24-Nov-17",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.1342241,
+            19.173773
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Veracruz, Mexico",
+          "date": "30-Nov-17",
+          "cause": "Unknown, one of four cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.1342241,
+            19.173773
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Veracruz, Mexico",
+          "date": "30-Nov-17",
+          "cause": "Unknown, one of four cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.1342241,
+            19.173773
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Veracruz, Mexico",
+          "date": "30-Nov-17",
+          "cause": "Unknown, one of four cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.1342241,
+            19.173773
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Veracruz, Mexico",
+          "date": "30-Nov-17",
+          "cause": "Unknown, one of four cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.99619469999999,
+            25.592172
+          ]
+        },
+        "properties": {
+          "name": "Sandra",
+          "city": "Nuevo Leon, Mexico",
+          "date": "30-Nov-17",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.72326729999999,
+            19.4968732
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Estado de Mexico, Mexico",
+          "date": "7-Dec-17",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -104.0072348,
+            19.1222634
+          ]
+        },
+        "properties": {
+          "name": "Geraldine Contreras",
+          "city": "Colima, Mexico",
+          "date": "9-Dec-17",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.54509739999999,
+            17.4391926
+          ]
+        },
+        "properties": {
+          "name": "C.N.",
+          "city": "Guerrero, Mexico",
+          "date": "17-Dec-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.4721134,
+            28.1986559
+          ]
+        },
+        "properties": {
+          "name": "Canoa",
+          "city": "Fortaleza, Mexico",
+          "date": "17-Dec-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.1342241,
+            19.173773
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Veracruz, Mexico",
+          "date": "31-Dec-17",
+          "cause": "tortured"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.8362755,
+            24.26694
+          ]
+        },
+        "properties": {
+          "name": "G. Carrera",
+          "city": "Tamaulipas, Mexico",
+          "date": "5-Jan-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.1342241,
+            19.173773
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Veracruz, Mexico",
+          "date": "11-Jan-18",
+          "cause": "throat cut"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.1342241,
+            19.173773
+          ]
+        },
+        "properties": {
+          "name": "Jessica González",
+          "city": "Veracruz, Mexico",
+          "date": "11-Jan-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.133208,
+            19.4326077
+          ]
+        },
+        "properties": {
+          "name": "Paola Carranco",
+          "city": "Ciudad De Mexico, Mexico",
+          "date": "26-Jan-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.4791376,
+            19.1817393
+          ]
+        },
+        "properties": {
+          "name": "Brigith",
+          "city": "Quintara Roo, Mexico",
+          "date": "27-Jan-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -101.2573586,
+            21.0190145
+          ]
+        },
+        "properties": {
+          "name": "C. Antuan",
+          "city": "Guanajuato, Mexico",
+          "date": "12-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.14111539999999,
+            23.7369164
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Ciudad Victoria, Mexico",
+          "date": "17-Feb-18",
+          "cause": "shot, one of three cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.14111539999999,
+            23.7369164
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Ciudad Victoria, Mexico",
+          "date": "17-Feb-18",
+          "cause": "shot, one of three cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.14111539999999,
+            23.7369164
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Ciudad Victoria, Mexico",
+          "date": "17-Feb-18",
+          "cause": "shot, one of three cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.54509739999999,
+            17.4391926
+          ]
+        },
+        "properties": {
+          "name": "Samantha",
+          "city": "Guerrero, Mexico",
+          "date": "6-Mar-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -107.4795173,
+            25.1721091
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Sinaloa, Mexico",
+          "date": "7-Mar-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -104.8454619,
+            21.7513844
+          ]
+        },
+        "properties": {
+          "name": "Sheila",
+          "city": "Nayarit, Mexico",
+          "date": "15-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.2062727,
+            19.0414398
+          ]
+        },
+        "properties": {
+          "name": "Charly",
+          "city": "Puebla, Mexico",
+          "date": "22-Mar-18",
+          "cause": "decapitated/dismembered"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.1342241,
+            19.173773
+          ]
+        },
+        "properties": {
+          "name": "Yoselyn",
+          "city": "Veracruz, Mexico",
+          "date": "4-Apr-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.99619469999999,
+            25.592172
+          ]
+        },
+        "properties": {
+          "name": "Grechen Alina Lara García",
+          "city": "Nuevo Leon, Mexico",
+          "date": "9-Apr-18",
+          "cause": "tortured and suffocated"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.99619469999999,
+            25.592172
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Nuevo Leon, Mexico",
+          "date": "17-Apr-18",
+          "cause": "Tortured and strangled"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.1342241,
+            19.173773
+          ]
+        },
+        "properties": {
+          "name": "Brisa",
+          "city": "Veracruz, Mexico",
+          "date": "22-Apr-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.2062727,
+            19.0414398
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Puebla, Mexico",
+          "date": "23-Apr-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -103.3494376,
+            20.6595382
+          ]
+        },
+        "properties": {
+          "name": "A.",
+          "city": "Jalisco, Mexico",
+          "date": "25-Apr-18",
+          "cause": "stoned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.54509739999999,
+            17.4391926
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Guerrero, Mexico",
+          "date": "27-Apr-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.99619469999999,
+            25.592172
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Nuevo Leon, Mexico",
+          "date": "21-May-18",
+          "cause": "suffocated"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -107.4795173,
+            25.1721091
+          ]
+        },
+        "properties": {
+          "name": "Yamileth Quintero",
+          "city": "Sinaloa, Mexico",
+          "date": "24-May-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.54509739999999,
+            17.4391926
+          ]
+        },
+        "properties": {
+          "name": "Maritza Harrera",
+          "city": "Guerrero, Mexico",
+          "date": "25-May-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.12923529999999,
+            16.7569318
+          ]
+        },
+        "properties": {
+          "name": "S. Antolli",
+          "city": "Chiapas, Mexico",
+          "date": "29-May-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -101.7068294,
+            27.058676
+          ]
+        },
+        "properties": {
+          "name": "J. Martínez Cepeda",
+          "city": "Coahuila, Mexico",
+          "date": "10-Jun-18",
+          "cause": "asphyxiatied and hit by a rock"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -101.7068294,
+            19.5665192
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Michoacan, Mexico",
+          "date": "14-Jun-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -104.0072348,
+            19.1222634
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Colima, Mexico",
+          "date": "16-Jun-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.12923529999999,
+            16.7569318
+          ]
+        },
+        "properties": {
+          "name": "Nataly Briyith Sánchez",
+          "city": "Chiapas, Mexico",
+          "date": "19-Jun-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.2915677,
+            21.8852562
+          ]
+        },
+        "properties": {
+          "name": "Alexa GutiÈrrez",
+          "city": "Aguascalientes, Mexico",
+          "date": "24-Jun-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.1013498,
+            18.6813049
+          ]
+        },
+        "properties": {
+          "name": "Katy",
+          "city": "Morelos, Mexico",
+          "date": "24-Jun-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.12923529999999,
+            16.7569318
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Chiapas, Mexico",
+          "date": "30-Jun-18",
+          "cause": "Unknown, one of six cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.12923529999999,
+            16.7569318
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Chiapas, Mexico",
+          "date": "30-Jun-18",
+          "cause": "Unknown, one of six cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.12923529999999,
+            16.7569318
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Chiapas, Mexico",
+          "date": "30-Jun-18",
+          "cause": "Unknown, one of six cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.12923529999999,
+            16.7569318
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Chiapas, Mexico",
+          "date": "30-Jun-18",
+          "cause": "Unknown, one of six cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.12923529999999,
+            16.7569318
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Chiapas, Mexico",
+          "date": "30-Jun-18",
+          "cause": "Unknown, one of six cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.12923529999999,
+            16.7569318
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Chiapas, Mexico",
+          "date": "30-Jun-18",
+          "cause": "Unknown, one of six cases on this date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.72326729999999,
+            19.4968732
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Estado de Mexico, Mexico",
+          "date": "10-Jul-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.72326729999999,
+            19.4968732
+          ]
+        },
+        "properties": {
+          "name": "Chanel",
+          "city": "Estado de Mexico, Mexico",
+          "date": "15-Jul-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.3985283,
+            18.806656
+          ]
+        },
+        "properties": {
+          "name": "L. M. Cocom Guzmán",
+          "city": "Yucatan, Mexico",
+          "date": "15-Jul-18",
+          "cause": "strangled"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -101.2573586,
+            21.0190145
+          ]
+        },
+        "properties": {
+          "name": "Alexa Altamirano Martínez",
+          "city": "Guanajuato, Mexico",
+          "date": "23-Jul-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.1342241,
+            19.173773
+          ]
+        },
+        "properties": {
+          "name": "Alaska Contreras Ponce",
+          "city": "Veracruz, Mexico",
+          "date": "26-Jul-18",
+          "cause": "tortured"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.72326729999999,
+            19.4968732
+          ]
+        },
+        "properties": {
+          "name": "Linda",
+          "city": "Estado de Mexico, Mexico",
+          "date": "26-Jul-18",
+          "cause": "suffocated"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -101.2573586,
+            21.0190145
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Guanajuato, Mexico",
+          "date": "5-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.4791376,
+            19.1817393
+          ]
+        },
+        "properties": {
+          "name": "M.R.M.",
+          "city": "Quintana Roo, Mexico",
+          "date": "6-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.7265889,
+            17.0731842
+          ]
+        },
+        "properties": {
+          "name": "J. C. M.",
+          "city": "Oaxaca, Mexico",
+          "date": "12-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.54509739999999,
+            17.4391926
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Guerrero, Mexico",
+          "date": "30-Aug-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.1342241,
+            19.173773
+          ]
+        },
+        "properties": {
+          "name": "Jhoana Hernández",
+          "city": "Veracruz, Mexico",
+          "date": "1-Sep-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.133208,
+            19.4326077
+          ]
+        },
+        "properties": {
+          "name": "Ana Corina Burgos",
+          "city": "Ciudad de Mexico, Mexico",
+          "date": "11-Sep-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.1758462,
+            17.597969
+          ]
+        },
+        "properties": {
+          "name": "Azuani Díaz García",
+          "city": "Chilapa, Mexico",
+          "date": "22-Sep-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.9145656,
+            17.9491782
+          ]
+        },
+        "properties": {
+          "name": "Dayana Letran",
+          "city": "Acayucan, Mexico",
+          "date": "26-Sep-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.552784,
+            23.634501
+          ]
+        },
+        "properties": {
+          "name": "Paulina Domínguez Hernández",
+          "city": "Cotzacoalco, Mexico",
+          "date": "27-Sep-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            174.8013022,
+            -41.2486251
+          ]
+        },
+        "properties": {
+          "name": "Zena Campbell",
+          "city": "Wellington, New Zealand",
+          "date": "11-Feb-18",
+          "cause": "strangled/hanged"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            71.5249154,
+            34.0151366
+          ]
+        },
+        "properties": {
+          "name": "Spogmai",
+          "city": "Peshawar, Pakistan",
+          "date": "26-Nov-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            71.5249154,
+            34.0151366
+          ]
+        },
+        "properties": {
+          "name": "Chutki",
+          "city": "Peshawar, Pakistan",
+          "date": "27-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.4613191,
+            34.1240709
+          ]
+        },
+        "properties": {
+          "name": "Sheena",
+          "city": "Swabi, Pakistan",
+          "date": "22-Apr-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.617704,
+            34.8838653
+          ]
+        },
+        "properties": {
+          "name": "Muni",
+          "city": "Kotkay, Pakistan",
+          "date": "4-May-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            73.68947179999999,
+            32.0711858
+          ]
+        },
+        "properties": {
+          "name": "Sania",
+          "city": "Hafizabad, Pakistan",
+          "date": "20-Jul-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.331113,
+            34.9526205
+          ]
+        },
+        "properties": {
+          "name": "Nasir Naso",
+          "city": "Khyber Pakhtunkhwa Province, Pakistan",
+          "date": "18-Aug-18",
+          "cause": "Aug-18"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            73.111356,
+            30.6681998
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Sahiwal, Pakistan",
+          "date": "6-Sep-18",
+          "cause": "burned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -57.0421483,
+            -25.4648258
+          ]
+        },
+        "properties": {
+          "name": "Ada Mía Naomi Gomez Rivas",
+          "city": "Piribebuy, Paraguay",
+          "date": "27-Aug-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.015152,
+            -9.189967
+          ]
+        },
+        "properties": {
+          "name": "Nicol Ortellado Ferreira",
+          "city": "Puerto Oblidago, Paraguay",
+          "date": "27-Sep-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.042754,
+            -12.0463731
+          ]
+        },
+        "properties": {
+          "name": "J. E. Ruidíaz Fernández",
+          "city": "Lima, Peru",
+          "date": "11-Feb-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.25163260000001,
+            -3.7436735
+          ]
+        },
+        "properties": {
+          "name": "Yamilet",
+          "city": "Iquitos, Peru",
+          "date": "14-Mar-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            121.016506,
+            14.560822
+          ]
+        },
+        "properties": {
+          "name": "Unknown Name",
+          "city": "Pasay City, Philippines",
+          "date": "23-Jan-18",
+          "cause": "Unknown"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.255854,
+            -25.6544483
+          ]
+        },
+        "properties": {
+          "name": "Ousi Kagiso",
+          "city": "Rustenburg, South Africa",
+          "date": "6-Jan-18",
+          "cause": "strangled/hanged"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.7614309,
+            -26.2773833
+          ]
+        },
+        "properties": {
+          "name": "Gugu Modise",
+          "city": "Ventersdorp, South Africa",
+          "date": "1-Sep-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4.724532099999999,
+            41.652251
+          ]
+        },
+        "properties": {
+          "name": "Eli",
+          "city": "Valladolid, Spain",
+          "date": "22-Sep-18",
+          "cause": "beaten"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -61.520903,
+            10.6707237
+          ]
+        },
+        "properties": {
+          "name": "Keon Alister Patterson",
+          "city": "St. Clair, Trinidad and Tobago",
+          "date": "5-Dec-17",
+          "cause": "Shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.78938,
+            41.45352099999999
+          ]
+        },
+        "properties": {
+          "name": "I. Y.",
+          "city": "Zonguldak, Turkey",
+          "date": "5-Dec-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.6722212,
+            39.2683708
+          ]
+        },
+        "properties": {
+          "name": "Kader Ataman",
+          "city": "Ayvalik Sarimsakli, Turkey",
+          "date": "13-Dec-17",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9703304,
+            41.0382864
+          ]
+        },
+        "properties": {
+          "name": "Kristina",
+          "city": "Beyoglu, Turkey",
+          "date": "8-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.8597419,
+            39.9333635
+          ]
+        },
+        "properties": {
+          "name": "Nefes",
+          "city": "Ankara, Turkey",
+          "date": "10-Mar-18",
+          "cause": "strangled/hanged"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.3360667,
+            41.2797031
+          ]
+        },
+        "properties": {
+          "name": "Simge Avci",
+          "city": "Samsun, Turkey",
+          "date": "13-Jul-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0609636,
+            40.1885281
+          ]
+        },
+        "properties": {
+          "name": "Begüm",
+          "city": "Bursa, Turkey",
+          "date": "19-Aug-18",
+          "cause": "burned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.9756971,
+            41.0342812
+          ]
+        },
+        "properties": {
+          "name": "Esra Ates",
+          "city": "Beyoglu, Turkey",
+          "date": "25-Aug-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.1322369,
+            51.4825655
+          ]
+        },
+        "properties": {
+          "name": "Naomi Hersi",
+          "city": "London, United Kingdom",
+          "date": "18-Mar-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.5164276,
+            35.4675602
+          ]
+        },
+        "properties": {
+          "name": "Brooklyn BreYanna Stevenson",
+          "city": "Oklahoma City, Oklahoma, United States of America",
+          "date": "27-Nov-17",
+          "cause": "Shot to death"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.3698028,
+            29.7604267
+          ]
+        },
+        "properties": {
+          "name": "Brandi Seals",
+          "city": "Houston, Texas, United States of America",
+          "date": "13-Dec-17",
+          "cause": "Shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.712891,
+            37.09024
+          ]
+        },
+        "properties": {
+          "name": "Zakaria “Z” Fry",
+          "city": "Jan-18",
+          "date": "13-Dec-17",
+          "cause": "Blunt force trauma"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.1087148,
+            42.70091499999999
+          ]
+        },
+        "properties": {
+          "name": "Christa Leigh Steele-Knudslien",
+          "city": "North Adams, Massachusetts, United States of America",
+          "date": "6-Jan-18",
+          "cause": "Stabbed and bludgeoned"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.2436849,
+            34.0522342
+          ]
+        },
+        "properties": {
+          "name": "Viccky Gutierrez",
+          "city": "Los Angeles, California, United States of America",
+          "date": "10-Jan-18",
+          "cause": "Undetermined"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.65565099999999,
+            30.3321838
+          ]
+        },
+        "properties": {
+          "name": "Celine Walker",
+          "city": "Jacksonville, Florida, United States of America",
+          "date": "4-Feb-18",
+          "cause": "Shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.8783689,
+            42.88644679999999
+          ]
+        },
+        "properties": {
+          "name": "Tonya Harvey",
+          "city": "Buffalo, New York, United States of America",
+          "date": "6-Feb-18",
+          "cause": "Shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.6943605,
+            41.49932
+          ]
+        },
+        "properties": {
+          "name": "Phylicia Mitchell",
+          "city": "Cleveland, Ohio, United States of America",
+          "date": "23-Feb-18",
+          "cause": "Shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -91.18714659999999,
+            30.4514677
+          ]
+        },
+        "properties": {
+          "name": "Amia Tyrae Berryman",
+          "city": "Baton Rogue, Louisiana, United States of America",
+          "date": "26-Mar-18",
+          "cause": "Shot to death"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.6297982,
+            41.8781136
+          ]
+        },
+        "properties": {
+          "name": "Sasha Wall",
+          "city": "Chicago, Illinois, United States of America",
+          "date": "1-Apr-18",
+          "cause": "Shot to death"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.79698789999999,
+            32.7766642
+          ]
+        },
+        "properties": {
+          "name": "Carla Patricia Flores-Pavon, United States of America",
+          "city": "Dallas, Texas",
+          "date": "9-May-18",
+          "cause": "Strangled to death"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.3879824,
+            33.7489954
+          ]
+        },
+        "properties": {
+          "name": "Nino Fortson",
+          "city": "Atlanta, Georgia, United States of America",
+          "date": "13-May-18",
+          "cause": "Shot multiple times"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.6587185,
+            45.5122308
+          ]
+        },
+        "properties": {
+          "name": "Gigi Pierce",
+          "city": "Portland, Oregon, United States of America",
+          "date": "21-May-18",
+          "cause": "Shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.65565099999999,
+            30.3321838
+          ]
+        },
+        "properties": {
+          "name": "Antash’a Devine Sherrington English",
+          "city": "Jacksonville, Florida, United States of America",
+          "date": "1-Jun-18",
+          "cause": "Shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.703656,
+            32.3643098
+          ]
+        },
+        "properties": {
+          "name": "Diamond Stephens",
+          "city": "Meridian, Mississippi, United States of America",
+          "date": "18-Jun-18",
+          "cause": "Shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.65565099999999,
+            30.3321838
+          ]
+        },
+        "properties": {
+          "name": "Cathalina Christina James",
+          "city": "Jacksonville, Florida, United States of America",
+          "date": "24-Jun-18",
+          "cause": "Shot to death"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.6943605,
+            41.49932
+          ]
+        },
+        "properties": {
+          "name": "Keisha “Pokey” Wells",
+          "city": "Cleveland, Ohio, United States of America",
+          "date": "24-Jun-18",
+          "cause": "Shot and killed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.3792365,
+            28.5383355
+          ]
+        },
+        "properties": {
+          "name": "Sasha Garden",
+          "city": "Orlando, Florida, United States of America",
+          "date": "19-Jul-18",
+          "cause": "Undetermined"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.6297982,
+            41.8781136
+          ]
+        },
+        "properties": {
+          "name": "Dejanay Stanton",
+          "city": "Chicago, Illinois, United States of America",
+          "date": "30-Aug-18",
+          "cause": "Shot to death"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.7501789,
+            32.5251516
+          ]
+        },
+        "properties": {
+          "name": "Vontashia Bell",
+          "city": "Shreveport, Louisiana, United States of America",
+          "date": "30-Aug-18",
+          "cause": "Shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1652215,
+            39.9525839
+          ]
+        },
+        "properties": {
+          "name": "Shantee Tucker",
+          "city": "Philadelphia, Pennsylvania, United States of America",
+          "date": "5-Sep-18",
+          "cause": "Shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.09064479999999,
+            26.9761707
+          ]
+        },
+        "properties": {
+          "name": "Londonn Moore",
+          "city": "Port Charlotte, Florida, United States of America",
+          "date": "8-Sep-18",
+          "cause": "Shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.6374246,
+            41.882564
+          ]
+        },
+        "properties": {
+          "name": "Ciara Minaj Carter Frazier",
+          "city": "Chicago, Illinois, United States of America",
+          "date": "3-Oct-18",
+          "cause": "Shot to death"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -69.90738879999999,
+            9.689983
+          ]
+        },
+        "properties": {
+          "name": "Vicky Julieth Alvarado",
+          "city": "Moran, Venezuela",
+          "date": "27-Jan-18",
+          "cause": "stabbed"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -66.90360629999999,
+            10.4805937
+          ]
+        },
+        "properties": {
+          "name": "Malvina Paiva",
+          "city": "Caracas, Venezuela",
+          "date": "3-Mar-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.0179418,
+            10.2683199
+          ]
+        },
+        "properties": {
+          "name": "China Colón",
+          "city": "Naguanagua, Venezuela",
+          "date": "24-Apr-18",
+          "cause": "shot"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -69.8597406,
+            10.1537842
+          ]
+        },
+        "properties": {
+          "name": "Rosada Durán Romero",
+          "city": "Lara, Venezuela",
+          "date": "17-May-18",
+          "cause": "shot"
+        }
+      }
+    ]
+}
